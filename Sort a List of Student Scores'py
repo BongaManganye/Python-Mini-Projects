@@ -1,0 +1,7 @@
+#Sort a List of Student Scores
+
+scores = [88, 92, 75, 100, 89]
+
+scores.sort()
+
+print(scores)
